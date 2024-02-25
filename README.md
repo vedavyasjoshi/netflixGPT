@@ -14,6 +14,7 @@
     - Created redux store with user slice
     - Implement signout
     - Update profile
+    - Bugfix: Redirect user to browse or login page based on login
 
 # Features
     - Login / Sign Up
