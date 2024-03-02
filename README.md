@@ -25,6 +25,9 @@
     - Fetch trailer data
     - Update store with trailer data
     - Embed youtube video autoplay & mute
+    - Build secondary component
+    - Build movie list, movie card,
+    - TMDB image CDN, custom hooks
 
 # Features
     - Login / Sign Up
