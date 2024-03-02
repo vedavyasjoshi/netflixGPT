@@ -15,6 +15,16 @@
     - Implement signout
     - Update profile
     - Bugfix: Redirect user to browse or login page based on login
+    - Unsubscribed to the onAuthStateChanged callback
+    - Add hardcoded values to constants file
+    - Register TMDB API & create an app, get access token
+    - Get now playing movies data
+    - Custom hook for now playing movies
+    - Update store with movies data
+    - Main & secondary container
+    - Fetch trailer data
+    - Update store with trailer data
+    - Embed youtube video autoplay & mute
 
 # Features
     - Login / Sign Up
