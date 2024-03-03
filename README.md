@@ -28,6 +28,10 @@
     - Build secondary component
     - Build movie list, movie card,
     - TMDB image CDN, custom hooks
+    - GPT Search bar
+    - GPT Search page
+    - Multi-language feature
+    - Integrate GPT APIs 
 
 # Features
     - Login / Sign Up
