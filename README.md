@@ -31,7 +31,13 @@
     - GPT Search bar
     - GPT Search page
     - Multi-language feature
-    - Integrate GPT APIs 
+    - Integrate GPT APIs
+    - Fetch GPT movie suggestions form TMDB
+    - GPT Slice
+    - Reused movie list component to display movie suggestions
+    - Memoization
+    - .env file
+    - Responsiveness
 
 # Features
     - Login / Sign Up
